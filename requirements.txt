@@ -1,0 +1,8 @@
+networkx==1.11
+jupyter
+pandas
+matplotlib
+pillow
+Image
+ipython
+ipythonblocks
